@@ -2,6 +2,8 @@ For syslog_report_view.py
 
 Built-in table:
 
+python3 syslog_report_view.py --list-workgroups
+
 python3 syslog_report_view.py <final_assessment.json> --workgroup prod-cvs-woon-streaming-s2s
 
 Customer CSV:
