@@ -2,11 +2,11 @@ For syslog_report_view.py
 
 Built-in table:
 
-python3 syslog_report_view.py <final_assessment.json> --workgroup <worker groupname>
+python3 syslog_report_view.py <final_assessment.json> --workgroup prod-cvs-woon-streaming-s2s
 
 Customer CSV:
 
-python3 syslog_report_view.py <final_assessment.json> --workgroups-file <workgroups.csv> --workgroup <worker group>
+python3 syslog_report_view.py <final_assessment.json> --workgroups-file <workgroups.csv> --workgroup prod-cvs-woon-streaming-s2s
 
 Example:
 
